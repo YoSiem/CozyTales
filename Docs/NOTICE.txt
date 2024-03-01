@@ -1,0 +1,1 @@
+These documents are partially deprecated and don't show the exact workflow needed, to achieve what was originally intended. These docs serve the purpose of showing, how I transmitted informations about how to work with the tools I made to my team as efficiently as possible.
