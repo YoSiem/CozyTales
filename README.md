@@ -52,6 +52,6 @@ react to it accordingly.
 Some of the documents I created to show my team how to work with the tools I made.
 (These documents are partially deprecated and mostly serve the purpose of showing, how I communicated with my team)
 
-- [Setting up an Event](.Docs/EventSetupFullGuide.pdf)
-- [Setting up a daily routine for an NPC](.Docs/DailyRoutineGuide.pdf)
-- [Using the Quest Module Asset from the Marketplace to create conversation-flowcharts(DEPRECATED)](.Docs/QuestModuleGuide.pdf)
+- [Setting up an Event](./Docs/EventSetupFullGuide.pdf)
+- [Setting up a daily routine for an NPC](./Docs/DailyRoutineGuide.pdf)
+- [Using the Quest Module Asset from the Marketplace to create conversation-flowcharts(DEPRECATED)](./Docs/QuestModuleGuide.pdf)
