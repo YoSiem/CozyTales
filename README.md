@@ -33,6 +33,7 @@ react to it accordingly.
   - Humanoid NPCs can have conversations with each other or the player, giving them important informations about the world
   - Every written line can be fitted with an audio file, mainly serving as an audible voice line
   - Certain dialogues trigger certain events/quests or resolve these
+  - Conversations can happen both with and without the direct interaction of the player
 - Quest & Event System
   - the activation or resolution to an event results in NPCs reacting in a certain manner
     - new conversations need to be assigned to them while old, redundant conversations need to be deleted from their repertoire
